@@ -1,16 +1,16 @@
 let busketSumCakes = [];
 
 let counterCakes = 0;
-let requestURL = "https://romarzn.github.io/Cakes/cake.json";
-var request = new XMLHttpRequest();
-request.open("GET", requestURL);
-request.responseType = "json";
-request.send();
-request.onload = function () {
-  var cakes = request.response;
+//let requestURL = "https://romarzn.github.io/Cakes/cake.json";
+//var request = new XMLHttpRequest();
+//request.open("GET", requestURL);
+//request.responseType = "json";
+//request.send();
+//request.onload = function () {
+//  var cakes = request.response;
   //renderCards();
-  console.log(cakes);
-};
+//  console.log(cakes);
+//};
 
 let div;
 function createCard(cake) {
