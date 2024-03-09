@@ -1,0 +1,24 @@
+[
+  {
+    "picter": "cake5.jpg",
+    "title": "Шоколадное пирожное",
+    "price": "250руб",
+    "discounte_price": "230руб"
+  },
+  {
+    "picter": "cake2.jpg",
+    "title": "Клубничное пирожное",
+    "price": "240руб"
+  },
+  {
+    "picter": "cake3.jpg",
+    "title": "Вишневый кекс",
+    "price": "125руб",
+    "discounte_price": "100руб"
+  },
+  {
+    "picter": "cake4.png",
+    "title": "Шоколадное чудо",
+    "price": "365руб"
+  }
+]
