@@ -8,7 +8,8 @@ request.responseType = "json";
 request.send();
 request.onload = function () {
   var cakes = request.response;
-  renderCards();
+  //renderCards();
+  console.log(cakes);
 };
 
 let div;
